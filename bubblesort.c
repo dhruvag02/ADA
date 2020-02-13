@@ -55,3 +55,35 @@ int temp;
 	}
 }
 
+OUTPUT
+Enter number of elements to be inserted in array
+7
+Enter the elements
+1
+3
+2
+9
+5
+6
+7
+Time required to complete bubble sort:0.000004 seconds
+Elements in sorted order
+1
+2
+3
+5
+6
+7
+9
+Enter number 'k' to view k largest elements
+6
+*******
+9
+7
+6
+5
+3
+2
+
+
+

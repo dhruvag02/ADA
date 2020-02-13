@@ -61,6 +61,26 @@ temp=*xp;
 *yp=temp;
 }
 
+Enter number of elements to be inserted in array
+5
+Enter the elements
+5
+4
+3
+2
+1
+Time required to complete bubble sort:0.000002 seconds
+Elements in sorted order
+1
+2
+3
+4
+5
+Enter number 'k' to view k largest elements
+2
+*******
+5
+4
 
 
 

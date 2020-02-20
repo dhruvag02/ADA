@@ -44,3 +44,16 @@ else
 return binary(arr,mid+1,high,x);
 }
 }
+
+Enter size of array
+5
+Enter elements in array
+3
+1
+5
+3
+8
+Enter element to be searched
+5
+Result of search: 2
+Time required to complete Binay Search:0.000002 seconds

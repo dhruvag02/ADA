@@ -89,3 +89,26 @@ printf("%d\n",arr[i]);
 getch();
 return 0;
 }
+
+
+OUTPUT
+
+Enter size of array
+5
+Enter elements in array
+1
+2
+3
+4
+5
+Enter num to rotate
+3
+Enter the element to be searched
+4
+Element found at position 0
+************
+4
+5
+1
+2
+3

@@ -1,7 +1,7 @@
 #include <bits/stdc++.h> 
 using namespace std; 
   
-// Utility function to find minimum of three numbers 
+//function to find minimum of three numbers 
 int min(int a, int b, int c) 
 { 
     return min(min(a, b), c); 
@@ -34,11 +34,10 @@ int editDist(string str1, string str2, int m, int n)
                    editDist(str1, str2, m - 1, n - 1) // Replace 
                    ); 
 } 
-  
-// Driver program 
+   
 int main() 
 { 
-    // your code goes here 
+     
    string str1,str2;
 	cout<<"Enter two strings"<<endl;
 	getline(cin,str1);
@@ -48,3 +47,9 @@ int main()
   
     return 0; 
 } 
+
+OUTPUT
+Enter two strings
+sunday
+saturday
+3

@@ -105,3 +105,43 @@ void insert(int vi,int vj)
         p->next=q;
     }
 }
+
+OUTPUT
+Enter number of vertices:3
+Enter number of edges:2
+Enter an edge(u,v):0 1
+Enter an edge(u,v):1 2
+
+0
+1
+2
+Graph do not contain cylce
+	
+Enter number of vertices:5
+Enter number of edges:4
+Enter an edge(u,v):0 1
+Enter an edge(u,v):1 2
+Enter an edge(u,v):2 3
+Enter an edge(u,v):2 4
+
+0
+1
+2
+3
+4	
+Graph do not contain cylce
+
+Enter number of vertices:5
+Enter number of edges:5
+Enter an edge(u,v):0 1
+Enter an edge(u,v):1 2
+Enter an edge(u,v):1 3
+Enter an edge(u,v):2 3
+Enter an edge(u,v):3 4
+
+0
+1
+2
+3
+4
+Graph contains cycle

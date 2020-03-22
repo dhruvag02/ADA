@@ -71,3 +71,26 @@ while(j<=high)
 for(i=low;i<=high;i++)
 	arr[i]=a[i];
 }
+
+OUTPUT
+
+Enter the size of array
+8
+Enter the elements in the array
+38
+27
+43
+3
+9
+82
+10
+12
+Sorted array is displayed
+3
+9
+10
+12
+27
+38
+43
+82

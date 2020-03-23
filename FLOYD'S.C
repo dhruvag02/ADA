@@ -47,3 +47,34 @@ return a;
 else
 return b;
 }
+
+OUTPUT
+
+Enter number of vertices
+4
+Enter the adjacency matrix
+0
+9999
+3
+9999
+
+2
+0
+9999
+9999
+
+9999
+7
+0
+1
+
+6
+9999
+9999
+0
+
+Distance matrix is displayed
+0       10      3       4
+2       0       5       6
+7       7       0       1
+6       16      9       0

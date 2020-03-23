@@ -38,3 +38,34 @@ printf("\n");
 getch();
 return 0;
 }
+
+OUTPUT
+
+Enter the number of vertices
+4
+Enter the adjacency matrix for directed graph
+0
+0
+0
+0
+
+0
+0
+1
+1
+
+0
+1
+0
+0
+
+1
+0
+1
+0
+
+Transitive closure is displayed
+0       0       0       0
+1       1       1       1
+1       1       1       1
+1       1       1       1

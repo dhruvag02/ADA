@@ -71,3 +71,33 @@ void queen(int row,int n)
   }
  }
 }
+
+OUTPUT
+ - N Queens Problem Using Backtracking -                                                                                               
+                                                                                                                                       
+Enter number of Queens:4                                                                                                               
+                                                                                                                                       
+                                                                                                                                       
+Solution 1:                                                                                                                            
+                                                                                                                                       
+        1       2       3       4                                                                                                      
+                                                                                                                                       
+1       -       Q       -       -                                                                                                      
+                                                                                                                                       
+2       -       -       -       Q                                                                                                      
+                                                                                                                                       
+3       Q       -       -       -                                                                                                      
+                                                                                                                                       
+4       -       -       Q       -                                                                                                      
+                                                                                                                                       
+Solution 2:                                                                                                                            
+                                                                                                                                       
+        1       2       3       4                                                                                                      
+                                                                                                                                       
+1       -       -       Q       -                                                                                                      
+                                                                                                                                       
+2       Q       -       -       -                                                                                                      
+                                                                                                                                       
+3       -       -       -       Q                                                                                                      
+                                                                                                                                       
+4       -       Q       -       -

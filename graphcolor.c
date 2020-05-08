@@ -80,3 +80,22 @@ int main()
     		printSolution(color); 
     	return 0;
 }
+
+OUTPUT
+Enter the no.of colors: 3                                                                                                              
+Enter the no.of vertices: 4                                                                                                            
+Enter the adjacency matrix:                                                                                                            
+0 1 1 1                                                                                                                                
+1 0 1 0                                                                                                                                
+1 1 0 1                                                                                                                                
+1 0 1 0                                                                                                                                
+The assigned colors are: 1 2 3 2
+*****	
+Enter the no.of colors: 2                                                                                                              
+Enter the no.of vertices: 4                                                                                                            
+Enter the adjacency matrix:                                                                                                            
+0 1  1 1                                                                                                                               
+1 0 1 0                                                                                                                                
+1 1 0 1                                                                                                                                
+1 0 1 0                                                                                                                                
+Solution does not exist

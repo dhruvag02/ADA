@@ -111,3 +111,7 @@ int main()
 
 	return 0; 
 }
+
+OUTPUT
+ 8    9   14   22n    8   14   15   16n   15   16   22nNodes generated 68n 
+ 3    5    7nNodes generated 13n
